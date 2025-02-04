@@ -24,7 +24,7 @@ A GUI tool to scan, filter, and backup files from Windows systems. Supports sele
 ```bash
 git clone https://github.com/yourusername/windows-file-scraper.git
 cd windows-file-scraper
-```plaintext
+```
 
 ## Usage
 
@@ -58,7 +58,6 @@ windows-file-scraper/
 │   ├── ui.py
 │   └── scraper.py
 ├── backups/
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
