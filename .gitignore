@@ -1,0 +1,58 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+### Virtual Environment ###
+venv/
+env/
+ENV/
+.env
+.venv
+
+### IDEs ###
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
+.project
+.pydevproject
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+### Project Specific ###
+backups/
+settings.json
+results.json
+*.log
+logs/
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+~$*
+windows_fresh_setup.7z
